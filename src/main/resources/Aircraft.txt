@@ -1,0 +1,14 @@
+Airbus310
+Airbus320
+Boeing747_400F
+Boeing_727_200
+Boeing_737_500
+Boeing_747_400
+Boeing_757_200
+Boeing_767_300
+Fokker_50
+Ilyushin_76
+McDonnellDouglas_11F
+McDonnellDouglas_83
+Аntonov124
+Аntonov225
