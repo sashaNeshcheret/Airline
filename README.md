@@ -42,6 +42,7 @@ unit tests availability,
 any non-standard technical solutions,
 any additional features not specified in the technical requirements, but making the application more functional or convenient,
 task execution time.
+
 Download the application from the repository with the command
 
 git clone https://github.com/sashkalife/Airline.git
@@ -49,4 +50,5 @@ git clone https://github.com/sashkalife/Airline.git
 Run the aplication with the command
 
 mvn install
+
 java -jar airplane-1.0.-SNAPSHOT.jar
