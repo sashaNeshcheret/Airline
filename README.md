@@ -50,5 +50,7 @@ git clone https://github.com/sashkalife/Airline.git
 Run the aplication with the command
 
 mvn install
+
 cd target
+
 java -jar airplane-1.0.-SNAPSHOT.jar
