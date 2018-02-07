@@ -53,4 +53,4 @@ mvn install
 
 cd target
 
-java -jar airplane-1.0.-SNAPSHOT.jar
+java -jar airplane-1.0-SNAPSHOT.jar
